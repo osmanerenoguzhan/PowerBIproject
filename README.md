@@ -9,22 +9,18 @@ This project aims to analyze customer reviews and sentiments related to British 
 ## Tableau Dashboards
 
 ### 1. Overall Sentiment Analysis
-![Overall Sentiment Analysis](/images/overall_sentiment.png)
 - This dashboard provides an overview of the sentiment distribution of customer reviews.
 - Key metrics such as sentiment polarity, subjectivity, and sentiment scores are visualized to understand the overall sentiment trend.
 
 ### 2. Review Topics and Themes
-![Review Topics and Themes](/images/review_topics.png)
 - Explore the most common topics and themes mentioned in customer reviews.
 - Utilizes text analysis techniques to extract key topics and visualize their frequencies.
 
 ### 3. Sentiment Trends Over Time
-![Sentiment Trends Over Time](/images/sentiment_trends.png)
 - Analyze how customer sentiment towards British Airways has evolved over time.
 - Time series visualization of sentiment scores helps identify trends and patterns.
 
 ### 4. Customer Satisfaction Metrics
-![Customer Satisfaction Metrics](/images/satisfaction_metrics.png)
 - Dive deeper into various satisfaction metrics such as ratings, recommendations, and loyalty.
 - Understand the factors influencing customer satisfaction and loyalty.
 
