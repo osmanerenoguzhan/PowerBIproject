@@ -46,3 +46,6 @@ Contributions to enhance this project are welcome! If you have any suggestions, 
 For any inquiries or questions regarding this project, please contact Osman Eren Oguzhan at osmaneoguzhan@gmail.com
 
 Happy Analyzing!
+
+
+<img width="1440" alt="Screenshot 2024-04-29 at 3 28 00 PM" src="https://github.com/osmanerenoguzhan/Tableau-Project-1/assets/57762530/3de5cb7e-1be4-4011-8571-4dce396ce6cc">
